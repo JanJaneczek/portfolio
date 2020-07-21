@@ -1,7 +1,7 @@
 # Portfolio ⚡️
 A minimal portfolio template.
 
-![Portfolio](images/portfolio.gif)
+![Portfolio](images/p.mp4)
 
 ## Features
 
