@@ -3,13 +3,13 @@ A minimal portfolio template.
 
 ![Portfolio](images/portfolio.jpg)
 
-## Features
+## Features ⭐
 
-⚡️ Modern UI Design + Reveal Animations\
-⚡️ One Page Layout\
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Well organized documentation
+⭐ Modern UI Design + Reveal Animations\
+⭐ One Page Layout\
+⭐ Fully Responsive\
+⭐ Valid HTML5 & CSS3\
+⭐ Well organized documentation
 
 To view a live example, **[click here](https://janjaneczek.github.io/portfolio)**
 
