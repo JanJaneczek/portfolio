@@ -1,20 +1,21 @@
 # Portfolio ⚡️
 A minimal portfolio template.
 
-![Portfolio](images/portfolio.gif)
+![Portfolio](images/portfolio.jpg)
 
 ## Features
 
-⚡️ Modern UI Design + Reveal Animations
-⚡️ One Page Layout
-⚡️ Fully Responsive
-⚡️ Valid HTML5 & CSS3
+⚡️ Modern UI Design + Reveal Animations\
+⚡️ One Page Layout\
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Well organized documentation
 
 To view a live example, **[click here](https://janjaneczek.github.io/portfolio)**
 
 ## Getting Started 🚀
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Simple editing in code is enough.
+Simple editing in code in your favorite editor.
 
 ## License 📄
 
