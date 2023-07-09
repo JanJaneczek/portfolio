@@ -1,7 +1,7 @@
 # Portfolio ⚡️
 A minimal portfolio template.
 
-![Portfolio](images/portfolio.jpg)
+![Portfolio](images/fav/fb_img.png)
 
 ## Features ⭐
 
