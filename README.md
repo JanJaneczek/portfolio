@@ -10,12 +10,5 @@ A minimal portfolio.
 ⭐ Fully Responsive\
 ⭐ Valid HTML5 & CSS3
 
-To view a live example, **[click here](https://janjaneczek.github.io/portfolio)**
+To view a live example, **[click here](https://janjaneczek.com)**
 
-## Getting Started 🚀
-
-Simple editing in code in your favorite editor.
-
-## Acknowledgments 🎁
-
-I was motivated to create this project because I wanted to contribute on something useful for the community.
