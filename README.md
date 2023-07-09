@@ -1,9 +1,9 @@
-# Portfolio ⚡️
+# Portfolio
 A minimal portfolio.
 
 ![Portfolio](images/fb_img.png)
 
-## Features ⭐
+## Features
 
 ⭐ Modern UI Design + Reveal Animations\
 ⭐ One Page Layout\
