@@ -1,5 +1,5 @@
 # Portfolio ⚡️
-A minimal portfolio template.
+A minimal portfolio.
 
 ![Portfolio](images/fb_img.png)
 
